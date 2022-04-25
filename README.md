@@ -1,6 +1,6 @@
-# flutter_cube
+# 3d Cube and 3d transition 
 
-A new Flutter project.
+A new Flutter project. For learning propose. :)
 
 ## Getting Started
 
